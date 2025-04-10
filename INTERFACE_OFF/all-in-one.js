@@ -1,7 +1,6 @@
 // Intrinsic
 class CoffeeFlavor {
   constructor(newFlavor) {
-    super();
     this.flavor = newFlavor;
   }
 
